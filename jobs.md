@@ -5,6 +5,8 @@
 
 不出意外的话我院学子招聘软件最常用的应该是牛客、boss、脉脉。牛客和boss的优势在于有大量的面试经验，脉脉的优势在于有海量的岗位和人脉信息。
 
+很多方向，包括转码（算法、前后端开发、测试等，去互联网还是去制造业甚至游戏业），嵌软，射频，电子，通信，国企，嵌入式硬件，雷达，产品经理等其他非技术岗位，甚至说去当老师或者转行到理科，或者别的行业。转码可以聊聊java c++ python go甚至matlab verilog micro-python c#，总之转码的我可以说不少，别的行业就要采访别的同学了。以及写一下关于实习。
+
 秋招第一波是一定要冲的，秋招第一波的hc基本占了60%。在现在这个经济下行的周期里，秋招第一波的hc基本上是最好的选择。并且不管是保研考研的，都可能不如早工作早占坑来得重要。
 
 如果你想转码的话https://survivesjtu.gitbook.io/survivesjtumanual/fu-lu/yi-jing-gong-zuo-xue-chang-de-ren-sheng-jing-yan/shang-hai-jiao-tong-da-xue-cs-sheng-cun-zhi-nan-fan-wai-pian-1
