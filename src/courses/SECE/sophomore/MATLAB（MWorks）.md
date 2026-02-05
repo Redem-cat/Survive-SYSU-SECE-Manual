@@ -1,3 +1,6 @@
+---
+icon: calculator 
+---
 # MATLAB / MWorks
 
 ::: info 课程变动提示
@@ -41,6 +44,9 @@ MATLAB 虽然在语法上是一门完备的编程语言，但受限于开发环�
 
 ## 3. 快速上手 (Quick Ref)
 如果你想要快速上手，或者速查最基础的语法，可以参考以下 Cheat Sheet：
+
+[MATLAB速查](../../../.vuepress/public/resources/quickref.m)，内容如下：
+
 ::: details 🟢 第1部分：变量定义和基本运算 (点击展开)
 ```matlab
 %% 基础准备

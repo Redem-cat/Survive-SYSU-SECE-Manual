@@ -10,14 +10,14 @@ export const zhNavbar = navbar([
 
   // 2. 校园生活
   {
-    text: "校园生活",
+    text: "开启指南",
     icon: "mug-hot", // FA图标: mug-hot (表示生活/喝茶) 或 use "compass"
     link: "/schools/SECE/0.main.md",
   },
 
   // 3. 学业攻略
   {
-    text: "学业攻略",
+    text: "课程攻略",
     icon: "book-open", // FA图标: book-open
     prefix: "/courses/SECE/",
     children: [

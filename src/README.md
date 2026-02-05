@@ -7,11 +7,11 @@ heroImage: /logo.png
 heroText: 中山大学自救指南(电通版)
 tagline: 工程实践经验与生活指南的全记录，陪你轻松度过在中大电通的学习旅程
 actions:
-  - text: 开启校园生活 💡
+  - text: 了解本指南 💡
     link: /schools/SECE/0.main.html
     type: primary
 
-  - text: 浏览学业攻略 📚
+  - text: 浏览课程攻略 📚
     link: /courses/SECE/freshman/
     type: secondary
 
