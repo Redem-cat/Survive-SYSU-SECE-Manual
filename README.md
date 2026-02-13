@@ -130,7 +130,24 @@ pnpm docs:clean-dev
 ```bash
 pnpm docs:build
 ```
-- **如果你实在不熟悉**github或者不想要进行太多代码的编辑，则**下载项目**，点击项目目录下**src文件夹**编辑里面的**Markdown**文件编辑后通过邮件、QQ等方式提交给我即可。
+
+**Vercel 部署注意事项**
+
+确保 pnpm-lock.yaml 与 package.json 一致。当在本地新增或更新依赖后，需要同步 lockfile：
+```
+pnpm install
+git add pnpm-lock.yaml
+git commit -m "Update pnpm-lock.yaml to match package.json"
+git push
+```
+
+避免 Vercel CI 报错：
+```
+ERR_PNPM_OUTDATED_LOCKFILE
+Cannot install with "frozen-lockfile" because pnpm-lock.yaml is not up to date
+```
+
+  **如果你实在不熟悉**github或者不想要进行太多代码的编辑，则**下载项目**，点击项目目录下**src文件夹**编辑里面的**Markdown**文件编辑后通过邮件、QQ等方式提交给我即可。
 
 
 ##  待办事项 (To-Do List)
