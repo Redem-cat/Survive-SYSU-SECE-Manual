@@ -1,3 +1,41 @@
+/* Hero 区域间距 */
 .hero-info-wrapper {
   margin-top: 60px;
+}
+
+/* Hero 图标/Logo 悬浮效果 */
+.hero img,
+[class*="hero"] img {
+  transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) !important;
+  transform-origin: center center;
+  cursor: pointer;
+}
+
+.hero img:hover,
+[class*="hero"] img:hover {
+  transform: scale(1.1) rotate(-8deg) !important;
+  filter: drop-shadow(0 10px 15px rgba(0, 0, 0, 0.15));
+}
+
+/* Hero 标题悬浮效果 */
+.hero h1,
+#main-title {
+  transition: transform 0.3s ease !important;
+  display: inline-block;
+  cursor: default;
+}
+
+.hero h1:hover,
+#main-title:hover {
+  transform: scale(1.02) translateY(-1px) !important;
+}
+
+.hero .description:hover,
+.hero p:hover,
+.vp-hero-description:hover,
+p.description:hover,
+.tagline:hover {
+  transform: translateY(-3px) !important;
+  opacity: 1 !important;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
 }

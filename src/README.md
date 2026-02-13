@@ -19,7 +19,7 @@ features:
   - title: 学业攻略
 
     icon: fa-solid fa-graduation-cap
-    details: 包含电通学院大一至大三课程评测、选课建议、避坑指南，助你合理安排学习计划。
+    details: 包含电通学院大一至大四课程评测、选课建议、避坑指南，助你合理安排学习计划。
     link: /courses/SECE/freshman/
 
   - title: 校园生活
