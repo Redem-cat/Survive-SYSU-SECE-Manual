@@ -40,16 +40,6 @@ features:
     details: 实习、竞赛、科研、考研、出国经验分享，助你明确方向，赢在起点。
     link: /schools/SECE/27.关于工作.html
 
-  - title: 经验分享
-
-    icon: fa-solid fa-pen-to-square
-    details: 来自学长学姐的真实经验总结，少走弯路。
-
-  - title: 持续更新
-
-    icon: fa-solid fa-rotate
-    details: 内容持续维护更新，欢迎更多社区成员共同建设这个属于 SYSUer 的知识库。
-
 copyright: false
 footer:  CC BY-NC-SA 4.0 | Copyright © 2026-present Redem-cat
 ---

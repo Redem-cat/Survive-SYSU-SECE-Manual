@@ -59,7 +59,7 @@ export const zhNavbar = navbar([
       { 
         text: "常见问题 (FAQ)", 
         icon: "circle-question", 
-        link: "/schools/SECE/15.不为人知的小技巧.md" 
+        link: "/schools/SECE/45.不为人知的小技巧.md" 
       },
       { 
         text: "学院官网", 
