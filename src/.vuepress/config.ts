@@ -24,6 +24,16 @@ export default defineUserConfig({
         content: "Redem-cat",
       },
     ],
+    [
+      "link",
+      {
+        rel: "preload",
+        as: "image",
+        href: "/logo.webp",
+        type: "image/webp",
+        fetchpriority: "high",
+      },
+    ],
   ],
 
   bundler: viteBundler(),

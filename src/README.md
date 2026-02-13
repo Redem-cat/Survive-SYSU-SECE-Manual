@@ -3,7 +3,7 @@ home: true
 
 icon: fa-solid fa-house
 title: 首页
-heroImage: /logo.png
+heroImage: /logo.webp
 heroText: 中山大学自救指南(电通版)
 tagline: 工程实践经验与生活指南的全记录，陪你轻松度过在中大电通的学习旅程
 actions:

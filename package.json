@@ -15,7 +15,11 @@
     "@vuepress/plugin-slimsearch": "2.0.0-rc.66",
     "flowchart.ts": "^3.0.1",
     "mermaid": "^11.12.2",
+    "rollup-plugin-visualizer": "^6.0.5",
     "sass-embedded": "^1.83.0",
+    "sharp": "^0.34.5",
+    "terser": "^5.46.0",
+    "vite-plugin-compression": "^0.5.1",
     "vue": "^3.5.13",
     "vuepress": "2.0.0-rc.19",
     "vuepress-theme-hope": "2.0.0-rc.64"
