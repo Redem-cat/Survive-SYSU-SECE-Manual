@@ -32,6 +32,7 @@ title: 大模型
   - 轻量级 LLM 实现
   - 支持多种实验任务
   - 便于快速上手和理解 LLM 原理
+  [MiniMind复现笔记](https://github.com/tomatoyuan/minimind-learn/tree/master?tab=readme-ov-file)
 
 ### 1.3 Qwen 系列示例
 
