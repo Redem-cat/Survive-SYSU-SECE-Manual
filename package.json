@@ -27,5 +27,8 @@
   "engines": {
     "node": ">=18.19.0"
   },
-  "packageManager": "pnpm@9.15.0"
+  "packageManager": "pnpm@9.15.0",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
 }
