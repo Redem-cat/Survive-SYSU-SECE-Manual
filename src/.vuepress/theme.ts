@@ -3,7 +3,7 @@ import { zhNavbar } from "./navbar";
 import { zhSidebar } from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://www.survive-sysu.online",
+  hostname: "https://www.survive-sysu.top",
 
   author: {
     name: "Redem-cat",

@@ -75,7 +75,7 @@
 如果你希望继续阅读这本《自救指南》，  
 请前往指南主页：
 
-👉 https://www.survive-sysu.online/
+👉 https://www.survive-sysu.top/
 
 ---
 
