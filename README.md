@@ -169,7 +169,13 @@ Cannot install with "frozen-lockfile" because pnpm-lock.yaml is not up to date
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Redem-cat/Survive-SYSU-SECE-Manual&type=Timeline)](https://star-history.com/#Redem-cat/Survive-SYSU-SECE-Manual&Timeline)
+<a href="https://www.star-history.com/?repos=Redem-cat%2FSurvive-SYSU-SECE-Manual&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Redem-cat/Survive-SYSU-SECE-Manual&type=timeline&theme=dark&legend=top-left&sealed_token=-ms7TVyfE85S1rrJI9YjRG7Yql4Y2CvuumdzSnSRvxTflfnge_BOBsy2AhUEMdu-_F44ScJy0Q6p_CnnjE0Z4rAAb1-pjO6nPLKpUHxBHPySawdxZNjSAZYmb_qMrJnmEXyusAtQlI4ZF3y7_oqz2KEUQKMtYayDKdGWU7i-gxc9PpBSvKKGvIzQ3Zpn" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Redem-cat/Survive-SYSU-SECE-Manual&type=timeline&legend=top-left&sealed_token=-ms7TVyfE85S1rrJI9YjRG7Yql4Y2CvuumdzSnSRvxTflfnge_BOBsy2AhUEMdu-_F44ScJy0Q6p_CnnjE0Z4rAAb1-pjO6nPLKpUHxBHPySawdxZNjSAZYmb_qMrJnmEXyusAtQlI4ZF3y7_oqz2KEUQKMtYayDKdGWU7i-gxc9PpBSvKKGvIzQ3Zpn" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Redem-cat/Survive-SYSU-SECE-Manual&type=timeline&legend=top-left&sealed_token=-ms7TVyfE85S1rrJI9YjRG7Yql4Y2CvuumdzSnSRvxTflfnge_BOBsy2AhUEMdu-_F44ScJy0Q6p_CnnjE0Z4rAAb1-pjO6nPLKpUHxBHPySawdxZNjSAZYmb_qMrJnmEXyusAtQlI4ZF3y7_oqz2KEUQKMtYayDKdGWU7i-gxc9PpBSvKKGvIzQ3Zpn" />
+ </picture>
+</a>
 
 ## 贡献
 
