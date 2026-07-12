@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.survive-sysu.online/sitemap.xml
+Sitemap: https://www.survive-sysu.top/sitemap.xml
