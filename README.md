@@ -140,6 +140,9 @@ git add pnpm-lock.yaml
 git commit -m "Update pnpm-lock.yaml to match package.json"
 git push
 ```
+每次增删依赖必须执行 pnpm install，并把 pnpm-lock.yaml 一起提交 Git；
+不要手动编辑 package.json 改版本号，统一用 pnpm add / pnpm remove；
+团队协作统一使用 pnpm，不要混用 npm/yarn/pnpm。
 
 避免 Vercel CI 报错：
 ```
