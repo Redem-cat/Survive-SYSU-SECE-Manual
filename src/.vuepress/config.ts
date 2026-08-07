@@ -25,6 +25,13 @@ export default defineUserConfig({
       },
     ],
     [
+      "meta",
+      {
+        name: "msvalidate.01",
+        content: "C7743D5A582AD3C2416DE004E768778B",
+      },
+    ],
+    [
       "link",
       {
         rel: "preload",
